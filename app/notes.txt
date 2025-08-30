@@ -1,0 +1,1 @@
+//1) Tailwind and CSS modules are the two most common ways of styling Next.js applications
